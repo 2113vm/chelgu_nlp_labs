@@ -3,7 +3,7 @@ from tqdm import tqdm
 from scipy.sparse import lil_matrix, csr_matrix
 
 
-class BigrammModel:
+class BigramModel:
     """
 
     Обязательный функционал:
